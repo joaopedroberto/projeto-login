@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(54, 54, 221);
+    display: flex; /*Comortamento do elemento na página*/
+    font-family: verdana;
+}
+
+/* Estilização do container */
+.container{
+    
+}
