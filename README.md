@@ -8,4 +8,20 @@ ENTRADA
  E-mail:
  Senha:
 
- hoje dia 036/09/202
+
+ ### descrição 
+ Esse projeto consiste em uma página de login de site.
+
+
+ ### Propiedades do css.
+ * Padding 
+ * height
+ * background-color
+ * display
+ * font-family
+ * display
+ * justify-content
+ * align-items
+ * width
+ *
+ *
