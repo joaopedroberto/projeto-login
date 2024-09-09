@@ -23,5 +23,5 @@ ENTRADA
  * justify-content
  * align-items
  * width
- *
+ * border-radius
  *
