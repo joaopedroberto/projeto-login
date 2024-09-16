@@ -27,3 +27,7 @@ ENTRADA
  * box-shadow - Sombra de caixa.
  * text-align - Alinhar o texto.
  
+
+ ### Referência
+
+ * [Esta referência fui buscada!](https://www.google.com/search?q=tradutor&rlz=1C1ISCS_pt-PTBR971BR971&oq=tradutor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
