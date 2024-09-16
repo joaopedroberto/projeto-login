@@ -24,4 +24,8 @@ ENTRADA
  * align-items
  * width
  * border-radius
- *
+ * color
+ * box-shadow
+ * text-align
+ 
+ 
