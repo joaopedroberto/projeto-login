@@ -14,18 +14,16 @@ ENTRADA
 
 
  ### Propiedades do css.
- * Padding 
- * height
- * background-color
- * display
- * font-family
- * display
- * justify-content
- * align-items
- * width
- * border-radius
- * color
- * box-shadow
- * text-align
- 
+ * Padding - adiciona espaço interno ao redor do conteúdo.
+ * height - A propiedade height mexe na altura.
+ * background-color - essa propiedade mexe na cor de fundo.
+ * display - Mostra como o elemento é exibido e como ele se comporta.
+ * font-family - família de fontes, mudar a fonte escrita.
+ * justify-content - justifica o conteúdo.
+ * align-items - alinhar items.
+ * width - Esse elemento mexe na largura.
+ * border-radius - Raio da borda.
+ * color - nada a menos que a cor.
+ * box-shadow - Sombra de caixa.
+ * text-align - Alinhar o texto.
  
